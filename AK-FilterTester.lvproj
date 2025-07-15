@@ -136,7 +136,7 @@
 				</Item>
 			</Item>
 			<Item Name="Daten MultiVA" Type="Folder">
-				<Item Name="Configuration" Type="Folder" URL="../../../Daten MultiVA/Configuration">
+				<Item Name="Configuration1" Type="Folder" URL="../../../Daten MultiVA/Configuration">
 					<Property Name="NI.DISK" Type="Bool">true</Property>
 				</Item>
 				<Item Name="Database" Type="Folder" URL="../../../Daten MultiVA/Database">
